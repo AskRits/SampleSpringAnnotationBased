@@ -1,0 +1,3 @@
+# SampleSpringAnnotationBased
+Bean using spring AnnotationConfigApplicationContext
+Annotation Based
